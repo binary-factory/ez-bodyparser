@@ -1,0 +1,16 @@
+{
+  "name": "@binary-factory/ez-bodyparser",
+  "description": "A body-parser plugin for ez-http.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": "https://github.com/binary-factory/ez-bodyparser.git",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "peerDependencies": {
+    "@binary-factory/ez-http": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.86",
+    "typescript": "^2.4.2"
+  }
+}
